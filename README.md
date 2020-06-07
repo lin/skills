@@ -1,4 +1,4 @@
-## Knowledge Roadmap for A Curious Mind
+## Personal Curriculum
 
 ---
 
