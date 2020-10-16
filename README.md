@@ -9,7 +9,7 @@
 - 🌝🌝🌚🌚🌚: Worked on several projects (understand key concepts)
 - 🌝🌝🌝🌚🌚: Able to design and teach a course (master the fundametals)
 - 🌝🌝🌝🌝🌚: Fluent in typical but complex situations (create a startup product)
-- 🌝🌝🌝🌝🌝: Expert level of breadth and depth (provide professional services)
+- 🌝🌝🌝🌝🌝: Expert level of breadth and depth (provide professional consulting services)
 
 ### Compute Science
 
@@ -33,9 +33,12 @@
 | Subject                        |      Current Level      |  Desired Level |     Priority     |
 |--------------------------------|:-----------------------:|:--------------:|:----------------:|
 | [Intro to Mathematical Logic](https://www.amazon.com/Mathematical-Introduction-Logic-Herbert-Enderton/dp/0122384520)    |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅✅     |
-| [Intro to Calculus](https://www.amazon.com/Calculus-James-Stewart/dp/1285740629/)             |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| [Intro to Prop. & Stats.](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot-dp-0321500466/dp/0321500466/)        |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| [Intro to Calculus](https://www.amazon.com/Calculus-James-Stewart/dp/1285740629/)             |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                |
+| [Intro to Prop. & Stats.](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot-dp-0321500466/dp/0321500466/)        |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                 |
 | [Intro to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/)        |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| [Intro to Differential Equation](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm) |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Group Theory |      🌚🌚🌚🌚🌚      |  🌝🌝🌚🌚🌚 |                  |
+| Topology |      🌚🌚🌚🌚🌚      |  🌝🌝🌚🌚🌚 |                  |
 | [Intro to Differential Equation](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm) |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | [Classical Mechanics](https://www.amazon.com/Classical-Dynamics-Particles-Systems-Thornton/dp/0534408966/)             |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | [Intro to Quantum Mechanics](https://www.amazon.com/Quantum-Mechanics-Scientists-Engineers-Miller/dp/0521897831/)      |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
