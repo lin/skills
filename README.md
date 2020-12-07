@@ -16,8 +16,8 @@
 | Subject                        |      Current Level      |  Desired Level |     Priority     |
 |--------------------------------|:-----------------------:|:--------------:|:----------------:|
 | [Intro to Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/) |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅✅     |
-| [Intro to Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)                                |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |      ✅✅       |
-| [Intro to Machine Learning](https://www.coursera.org/learn/machine-learning)    |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |      ✅✅       |
+| [Intro to Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)                                |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅       |
+| [Intro to Machine Learning](https://www.coursera.org/learn/machine-learning)    |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅       |
 | [Intro to Computer Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles-ebook/dp/B004HHORGA/)      |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | [Intro to Computer Graphics](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528)     |      🌝🌝🌝🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | [Intro to Algorithms & DS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)       |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
@@ -37,7 +37,7 @@
 | [Intro to Prop. & Stats.](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot-dp-0321500466/dp/0321500466/)        |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                 |
 | [Intro to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/)        |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | [Intro to Differential Equation](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm) |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Group Theory |      🌚🌚🌚🌚🌚      |  🌝🌝🌚🌚🌚 |                  |
+| Group Theory |      🌝🌚🌚🌚🌚      |  🌝🌝🌚🌚🌚 |                  |
 | Topology |      🌚🌚🌚🌚🌚      |  🌝🌝🌚🌚🌚 |                  |
 | [Intro to Differential Equation](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm) |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | [Classical Mechanics](https://www.amazon.com/Classical-Dynamics-Particles-Systems-Thornton/dp/0534408966/)             |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
@@ -71,9 +71,9 @@
 | Python              |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | C / C++             |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | Git                 |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| R                   |      🌝🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
-| Javascript          |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
-| HTML / CSS          |      🌝🌝🌝🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| R                   |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| Javascript          |      🌝🌝🌝🌝🌚       |  🌝🌝🌝🌝🌝 |                  |
+| HTML / CSS          |      🌝🌝🌝🌝🌚       |  🌝🌝🌝🌝🌝 |                  |
 | FORTRAN             |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Java                |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | PHP (Wordpress)     |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
@@ -86,7 +86,7 @@
 | D3                  |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Greensocks          |      🌝🌝🌝🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | WebGL               |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
-| THREE.js            |      🌝🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| THREE.js            |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 
 ### Design & Animation Software
 
@@ -97,7 +97,7 @@
 | Sketch              |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | After Effect        |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Principle           |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Blender             |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Maya                |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| 3DS Max             |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Procreate           |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Blender             |      🌚🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| Procreate           |      🌚🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| Maya                |      🌚🌚🌚🌚🌚       |  🌝🌚🌚🌚🌚 |                  |
+| 3DS Max             |      🌚🌚🌚🌚🌚       |  🌝🌚🌚🌚🌚 |                  |
