@@ -11,13 +11,14 @@
 - 🌝🌝🌝🌝🌚: Fluent in typical but complex situations (create a startup product)
 - 🌝🌝🌝🌝🌝: Expert level of breadth and depth (provide professional consulting services)
 
-### Compute Science
+### CS & AI (STAT)
 
 | Subject                        |      Current Level      |  Desired Level |     Priority     |
 |--------------------------------|:-----------------------:|:--------------:|:----------------:|
 | [Intro to Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/) |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅✅     |
 | [Intro to Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)                                |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅       |
 | [Intro to Machine Learning](https://www.coursera.org/learn/machine-learning)    |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅       |
+| [Bayesian Model](https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954)    |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |            |
 | [Intro to Computer Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles-ebook/dp/B004HHORGA/)      |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | [Intro to Computer Graphics](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528)     |      🌝🌝🌝🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | [Intro to Algorithms & DS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)       |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
@@ -26,7 +27,7 @@
 | Intro to Operating Systems     |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Intro to Databases             |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Intro to Distributed Systems   |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| [Math for Computer Science](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/1337694193/)      |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| [Math for Computer Science](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/1337694193/)      |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |     |
 
 ### Math & Physics
 
@@ -47,22 +48,21 @@
 | [Electromagnetic](https://www.amazon.com/Foundations-Electromagnetic-Theory-John-Reitz/dp/0321581741)               |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | [Special Relativity](https://ocw.mit.edu/courses/physics/8-20-introduction-to-special-relativity-january-iap-2005/syllabus/)             |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | [General Relativity](https://www.amazon.com/Spacetime-Geometry-Introduction-General-Relativity-ebook/dp/B07T9MCTWF/)             |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| [Quantum Field Theory](https://www.amazon.com/Introduction-Quantum-Theory-Frontiers-Physics-ebook/dp/B07CYVPDQR/)           |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| [Quantum Field Theory](https://www.amazon.com/Introduction-Quantum-Theory-Frontiers-Physics-ebook/dp/B07CYVPDQR/)           |    🌚🌚🌚🌚🌚   |  🌝🌝🌚🌚🌚 |  |
 
-### Business & Politics
+### Design & Animation Software
 
-| Subject                        |      Current Level      |  Desired Level |     Priority     |
-|--------------------------------|:-----------------------:|:--------------:|:----------------:|
-| [Intro to Corporate Finance](https://www.amazon.com/Principles-Corporate-Finance-Mcgraw-hill-Insurance-dp-1259144380/dp/1259144380/)     |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Intro to Entrepreneurship      |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Intro to Marketing             |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Intro to Accounting            |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Intro to Game Theory           |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Intro to Macroeconomics        |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Intro to Microeconomics        |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Intro to Behavioral Economics  |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Western History                |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-
+| Subject             |      Current Level      |  Desired Level |    Priority      |
+|---------------------|:-----------------------:|:--------------:|:----------------:|
+| Photoshop           |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| Illustrator         |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| Sketch              |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| After Effect        |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Blender             |      🌚🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| Principle           |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Procreate           |      🌚🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| Maya                |      🌚🌚🌚🌚🌚       |  🌝🌚🌚🌚🌚 |                  |
+| 3ds Max             |      🌚🌚🌚🌚🌚       |  🌝🌚🌚🌚🌚 |                  |
 
 ### Programming Languages & Libraries
 
@@ -88,16 +88,16 @@
 | WebGL               |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | THREE.js            |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 
-### Design & Animation Software
+### Business & Politics & History
 
-| Subject             |      Current Level      |  Desired Level |    Priority      |
-|---------------------|:-----------------------:|:--------------:|:----------------:|
-| Photoshop           |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
-| Illustrator         |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
-| Sketch              |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
-| After Effect        |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Principle           |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Blender             |      🌚🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
-| Procreate           |      🌚🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
-| Maya                |      🌚🌚🌚🌚🌚       |  🌝🌚🌚🌚🌚 |                  |
-| 3DS Max             |      🌚🌚🌚🌚🌚       |  🌝🌚🌚🌚🌚 |                  |
+| Subject                        |      Current Level      |  Desired Level |     Priority     |
+|--------------------------------|:-----------------------:|:--------------:|:----------------:|
+| [Intro to Corporate Finance](https://www.amazon.com/Principles-Corporate-Finance-Mcgraw-hill-Insurance-dp-1259144380/dp/1259144380/)     |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Intro to Entrepreneurship      |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Intro to Marketing             |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Intro to Accounting            |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Intro to Game Theory           |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Intro to Macroeconomics        |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Intro to Microeconomics        |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Intro to Behavioral Economics  |      🌚🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
+| Western History                |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
