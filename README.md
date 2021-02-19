@@ -11,7 +11,7 @@
 - 🌝🌝🌝🌝🌚: Fluent in typical but complex situations (create a startup product)
 - 🌝🌝🌝🌝🌝: Expert level of breadth and depth (provide professional consulting services)
 
-### CS & AI (STAT)
+### [CS & AI (STAT)](https://github.com/lin/cs)
 
 | Subject                        |      Current Level      |  Desired Level |     Priority     |
 |--------------------------------|:-----------------------:|:--------------:|:----------------:|
