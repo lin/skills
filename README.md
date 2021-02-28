@@ -15,9 +15,9 @@
 
 | Subject                        |      Current Level      |  Desired Level |     Priority     |
 |--------------------------------|:-----------------------:|:--------------:|:----------------:|
-| [Intro to Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/) |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅✅     |
-| [Intro to Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)                                |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅       |
-| [Intro to Machine Learning](https://www.coursera.org/learn/machine-learning)    |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |      ✅✅       |
+| [Intro to Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/) |      🌝🌝🌝🌚🌚       |  🌝🌝🌝🌝🌝 |      |
+| [Intro to Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)                                |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌝🌚 |        |
+| [Intro to Machine Learning](https://www.coursera.org/learn/machine-learning)    |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌝🌚 |       |
 | [Bayesian Model](https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954)    |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |            |
 | [Intro to Computer Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles-ebook/dp/B004HHORGA/)      |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | [Intro to Computer Graphics](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528)     |      🌝🌝🌝🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
@@ -27,7 +27,7 @@
 | Intro to Operating Systems     |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Intro to Databases             |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Intro to Distributed Systems   |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| [Math for Computer Science](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/1337694193/)      |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |     |
+| [Math for Computer Science](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/1337694193/)      |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌝🌚 |     |
 
 ### Math & Physics
 
@@ -59,7 +59,6 @@
 | Sketch              |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | After Effect        |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Blender             |      🌚🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
-| Principle           |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Procreate           |      🌚🌚🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | Maya                |      🌚🌚🌚🌚🌚       |  🌝🌚🌚🌚🌚 |                  |
 | 3ds Max             |      🌚🌚🌚🌚🌚       |  🌝🌚🌚🌚🌚 |                  |
@@ -84,7 +83,7 @@
 | React               |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | Vue                 |      🌝🌚🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
 | D3                  |      🌝🌝🌚🌚🌚       |  🌝🌝🌚🌚🌚 |                  |
-| Greensocks          |      🌝🌝🌝🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
+| GSAP                |      🌝🌝🌝🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | WebGL               |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 | THREE.js            |      🌝🌝🌚🌚🌚       |  🌝🌝🌝🌚🌚 |                  |
 
